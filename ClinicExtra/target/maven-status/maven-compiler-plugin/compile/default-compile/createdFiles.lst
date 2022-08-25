@@ -1,0 +1,12 @@
+META-INF\MANIFEST.MF
+META-INF\maven\org.example.clinic.webapp\ClinicExtra\pom.xml
+org\example\clinic\webapp\Notification\Notification.class
+org\example\clinic\webapp\Notification\Email.class
+org\example\clinic\webapp\Notification\NotificationMethod.class
+org\example\clinic\webapp\ClinicExtra\DependencyInjectionApp.class
+org\example\clinic\webapp\Payment\CreditCard.class
+org\example\clinic\webapp\Notification\SMS.class
+org\example\clinic\webapp\Payment\PaymentMethod.class
+org\example\clinic\webapp\Payment\PayPal.class
+META-INF\maven\org.example.clinic.webapp\ClinicExtra\pom.properties
+org\example\clinic\webapp\Payment\Manual.class
